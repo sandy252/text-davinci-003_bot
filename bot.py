@@ -22,7 +22,7 @@ import base64
 # add_bg_from_local('background_1.jpg')
 
 
-API_KEY = "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"
+API_KEY = "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"
 openai.api_key = API_KEY
 
 with st.sidebar:
