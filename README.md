@@ -15,12 +15,7 @@ text-davinci-003 is one of the most capable GPT-3 model. It can do any task the 
 
 
 
-## API Reference
 
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | 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|
 
 
 
